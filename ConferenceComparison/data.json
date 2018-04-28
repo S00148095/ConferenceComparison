@@ -1,6 +1,6 @@
 {
     "Pro14": {
-        "clubs": {
+        "Clubs": {
             "Benetton Rugby": [
                 {
                     "Opposition": "Munster Rugby",
@@ -141,6 +141,13 @@
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 0
+                },
+                {
+                    "Opposition": "Zebre Rugby Club",
+                    "Score": "17-22",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 1
                 }
             ],
             "Dragons": [
@@ -283,6 +290,13 @@
                     "Result": "Loss",
                     "Location": "Away",
                     "BP": 1
+                },
+                {
+                    "Opposition": "Scarlets",
+                    "Score": "8-33",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 0
                 }
             ],
             "Leinster Rugby": [
@@ -425,6 +439,13 @@
                     "Result": "Loss",
                     "Location": "Home",
                     "BP": 1
+                },
+                {
+                    "Opposition": "Connacht Rugby",
+                    "Score": "47-10",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
                 }
             ],
             "Scarlets": [
@@ -567,6 +588,13 @@
                     "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
+                },
+                {
+                    "Opposition": "Dragons",
+                    "Score": "8-33",
+                    "Result": "Win",
+                    "Location": "Away",
+                    "BP": 1
                 }
             ],
             "Ulster Rugby": [
@@ -658,7 +686,7 @@
                     "Opposition": "Leinster Rugby",
                     "Score": "38-7",
                     "Result": "Loss",
-                    "Location": "Aqay",
+                    "Location": "Away",
                     "BP": 0
                 },
                 {
@@ -709,6 +737,13 @@
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
+                },
+                {
+                    "Opposition": "Munster Rugby",
+                    "Score": "24-24",
+                    "Result": "Draw",
+                    "Location": "Away",
+                    "BP": 0
                 }
             ],
             "Cardiff Blues": [
@@ -850,6 +885,13 @@
                     "Score": "12-45",
                     "Result": "Win",
                     "Location": "Away",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Ospreys",
+                    "Score": "23-26",
+                    "Result": "Loss",
+                    "Location": "Home",
                     "BP": 1
                 }
             ],
@@ -993,6 +1035,13 @@
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
+                },
+                {
+                    "Opposition": "Glasgow Warriors",
+                    "Score": "24-19",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 0
                 }
             ],
             "Munster Rugby": [
@@ -1135,6 +1184,13 @@
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 0
+                },
+                {
+                    "Opposition": "Ulster Rugby",
+                    "Score": "24-24",
+                    "Result": "Draw",
+                    "Location": "Home",
+                    "BP": 0
                 }
             ],
             "Southern Kings": [
@@ -1274,6 +1330,13 @@
                 {
                     "Opposition": "Cardiff Blues",
                     "Score": "12-45",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Toyota Cheetahs",
+                    "Score": "20-29",
                     "Result": "Loss",
                     "Location": "Home",
                     "BP": 0
@@ -1419,429 +1482,457 @@
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
+                },
+                {
+                    "Opposition": "Benetton Rugby",
+                    "Score": "17-22",
+                    "Result": "Win",
+                    "Location": "Away",
+                    "BP": 0
                 }
             ],
             "Connacht Rugby": [
                 {
-                    "Opposition": "start here",
-                    "Score": "34-3",
+                    "Opposition": "Glasgow Warriors",
+                    "Score": "12-18",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Southern Kings",
+                    "Score": "32-10",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Dragons",
+                    "Score": "21-8",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Cardiff Blues",
+                    "Score": "15-17",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Scarlets",
+                    "Score": "36-27",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Ulster Rugby",
+                    "Score": "16-8",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Munster Rugby",
+                    "Score": "20-16",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Toyota Cheetahs",
+                    "Score": "23-15",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Cardiff Blues",
+                    "Score": "36-30",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 2
+                },
+                {
+                    "Opposition": "Zebre Rugby Club",
+                    "Score": "24-10",
                     "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Ulster Rugby",
-                    "Score": "14-21",
-                    "Result": "Loss",
+                    "Score": "44-16",
+                    "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
-                    "Opposition": "Edinburgh Rugby",
-                    "Score": "20-17",
-                    "Result": "Win",
+                    "Opposition": "Leinster Rugby",
+                    "Score": "21-18",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Munster Rugby",
+                    "Score": "39-13",
+                    "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Ospreys",
-                    "Score": "16-6",
+                    "Score": "26-15",
                     "Result": "Win",
-                    "Location": "Home",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Glasgow Warriors",
-                    "Score": "37-21",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Southern Kings",
-                    "Score": "31-3",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Edinburgh Rugby",
-                    "Score": "13-24",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Scarlets",
-                    "Score": "20-8",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ulster Rugby",
-                    "Score": "23-22",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Leinster Rugby",
-                    "Score": "10-36",
-                    "Result": "Loss",
                     "Location": "Home",
                     "BP": 0
                 },
                 {
                     "Opposition": "Zebre Rugby Club",
-                    "Score": "27-14",
-                    "Result": "Win",
+                    "Score": "11-19",
+                    "Result": "Loss",
                     "Location": "Home",
-                    "BP": 1
+                    "BP": 0
                 },
                 {
-                    "Opposition": "Zebre Rugby Club",
-                    "Score": "16-20",
+                    "Opposition": "Benetton Rugby",
+                    "Score": "19-22",
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Toyota Cheetahs",
-                    "Score": "27-21",
-                    "Result": "Win",
+                    "Score": "26-25",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Edinburgh Rugby",
+                    "Score": "22-29",
+                    "Result": "Loss",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
-                    "Opposition": "Scarlets",
-                    "Score": "22-12",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Dragons",
-                    "Score": "15-18",
-                    "Result": "Win",
+                    "Opposition": "Ospreys",
+                    "Score": "39-10",
+                    "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
-                    "Opposition": "Connacht Rugby",
-                    "Score": "19-22",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Cardiff Blues",
-                    "Score": "31-25",
+                    "Opposition": "Glasgow Warriors",
+                    "Score": "35-22",
                     "Result": "Loss",
                     "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Southern Kings",
-                    "Score": "35-36",
-                    "Result": "Win",
-                    "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Dragons",
-                    "Score": "29-27",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
+                    "BP": 0
                 },
                 {
                     "Opposition": "Leinster Rugby",
-                    "Score": "15-17",
+                    "Score": "47-10",
                     "Result": "Win",
-                    "Location": "Away",
-                    "BP": 0
+                    "Location": "Home",
+                    "BP": 1
                 }
             ],
             "Glasgow Warriors": [
                 {
-                    "Opposition": "Munster Rugby",
-                    "Score": "34-3",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ulster Rugby",
-                    "Score": "14-21",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Edinburgh Rugby",
-                    "Score": "20-17",
+                    "Opposition": "Connacht Rugby",
+                    "Score": "12-18",
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Ospreys",
-                    "Score": "16-6",
+                    "Score": "31-10",
                     "Result": "Win",
                     "Location": "Home",
-                    "BP": 0
+                    "BP": 1
                 },
                 {
-                    "Opposition": "Glasgow Warriors",
-                    "Score": "37-21",
-                    "Result": "Loss",
+                    "Opposition": "Cardiff Blues",
+                    "Score": "19-20",
+                    "Result": "Win",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
+                    "Opposition": "Munster Rugby",
+                    "Score": "37-10",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Benetton Rugby",
+                    "Score": "37-21",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Toyota Cheetahs",
+                    "Score": "26-29",
+                    "Result": "Win",
+                    "Location": "Away",
+                    "BP": 1
+                },
+                {
                     "Opposition": "Southern Kings",
-                    "Score": "31-3",
+                    "Score": "43-13",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Leinster Rugby",
+                    "Score": "31-21",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Ospreys",
+                    "Score": "6-47",
+                    "Result": "Win",
+                    "Location": "Away",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Cardiff Blues",
+                    "Score": "40-16",
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
                     "Opposition": "Edinburgh Rugby",
-                    "Score": "13-24",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Scarlets",
-                    "Score": "20-8",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ulster Rugby",
-                    "Score": "23-22",
+                    "Score": "18-17",
                     "Result": "Loss",
                     "Location": "Away",
                     "BP": 1
                 },
                 {
-                    "Opposition": "Leinster Rugby",
-                    "Score": "10-36",
-                    "Result": "Loss",
+                    "Opposition": "Edinburgh Rugby",
+                    "Score": "17-0",
+                    "Result": "Win",
                     "Location": "Home",
                     "BP": 0
                 },
                 {
                     "Opposition": "Zebre Rugby Club",
-                    "Score": "27-14",
+                    "Score": "20-40",
                     "Result": "Win",
-                    "Location": "Home",
+                    "Location": "Away",
                     "BP": 1
                 },
                 {
-                    "Opposition": "Zebre Rugby Club",
-                    "Score": "16-20",
-                    "Result": "Win",
+                    "Opposition": "Dragons",
+                    "Score": "15-15",
+                    "Result": "Draw",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Toyota Cheetahs",
-                    "Score": "27-21",
+                    "Score": "37-23",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Munster Rugby",
+                    "Score": "21-10",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Zebre Rugby Club",
+                    "Score": "68-7",
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
                     "Opposition": "Scarlets",
-                    "Score": "22-12",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Dragons",
-                    "Score": "15-18",
-                    "Result": "Win",
+                    "Score": "26-8",
+                    "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Connacht Rugby",
-                    "Score": "19-22",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Cardiff Blues",
-                    "Score": "31-25",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Southern Kings",
-                    "Score": "35-36",
-                    "Result": "Win",
-                    "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Dragons",
-                    "Score": "29-27",
+                    "Score": "35-22",
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
-                    "Opposition": "Leinster Rugby",
-                    "Score": "15-17",
-                    "Result": "Win",
+                    "Opposition": "Ulster Rugby",
+                    "Score": "36-15",
+                    "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
+                },
+                {
+                    "Opposition": "Edinburgh Rugby",
+                    "Score": "24-19",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 1
                 }
             ],
             "Ospreys": [
                 {
-                    "Opposition": "Munster Rugby",
-                    "Score": "34-3",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ulster Rugby",
-                    "Score": "14-21",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Edinburgh Rugby",
-                    "Score": "20-17",
-                    "Result": "Win",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ospreys",
-                    "Score": "16-6",
+                    "Opposition": "Zebre Rugby Club",
+                    "Score": "22-13",
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 0
                 },
                 {
                     "Opposition": "Glasgow Warriors",
-                    "Score": "37-21",
+                    "Score": "31-10",
                     "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
-                    "Opposition": "Southern Kings",
-                    "Score": "31-3",
+                    "Opposition": "Munster Rugby",
+                    "Score": "16-21",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Benetton Rugby",
+                    "Score": "16-6",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Toyota Cheetahs",
+                    "Score": "44-25",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Scarlets",
+                    "Score": "18-19",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Dragons",
+                    "Score": "28-14",
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
                     "Opposition": "Edinburgh Rugby",
-                    "Score": "13-24",
+                    "Score": "37-10",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Glasgow Warriors",
+                    "Score": "6-47",
                     "Result": "Loss",
                     "Location": "Home",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Munster Rugby",
+                    "Score": "36-10",
+                    "Result": "Loss",
+                    "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Scarlets",
-                    "Score": "20-8",
+                    "Score": "12-9",
                     "Result": "Loss",
                     "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ulster Rugby",
-                    "Score": "23-22",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Leinster Rugby",
-                    "Score": "10-36",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Zebre Rugby Club",
-                    "Score": "27-14",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Zebre Rugby Club",
-                    "Score": "16-20",
-                    "Result": "Win",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Toyota Cheetahs",
-                    "Score": "27-21",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Scarlets",
-                    "Score": "22-12",
-                    "Result": "Win",
-                    "Location": "Home",
                     "BP": 1
                 },
                 {
                     "Opposition": "Dragons",
-                    "Score": "15-18",
+                    "Score": "9-22",
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 0
-                },
-                {
-                    "Opposition": "Connacht Rugby",
-                    "Score": "19-22",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 1
                 },
                 {
                     "Opposition": "Cardiff Blues",
-                    "Score": "31-25",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Southern Kings",
-                    "Score": "35-36",
-                    "Result": "Win",
-                    "Location": "Away",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Dragons",
-                    "Score": "29-27",
+                    "Score": "29-28",
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
+                    "Opposition": "Connacht Rugby",
+                    "Score": "26-15",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Southern Kings",
+                    "Score": "26-12",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Toyota Cheetahs",
+                    "Score": "27-26",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 0
+                },
+                {
                     "Opposition": "Leinster Rugby",
-                    "Score": "15-17",
+                    "Score": "32-18",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Connacht Rugby",
+                    "Score": "39-10",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Ulster Rugby",
+                    "Score": "8-0",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Zebre Rugby Club",
+                    "Score": "37-14",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Cardiff Blues",
+                    "Score": "23-26",
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 0
@@ -1849,144 +1940,151 @@
             ],
             "Toyota Cheetahs": [
                 {
+                    "Opposition": "Ulster Rugby",
+                    "Score": "42-19",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
                     "Opposition": "Munster Rugby",
-                    "Score": "34-3",
+                    "Score": "51-18",
                     "Result": "Loss",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
-                    "Opposition": "Ulster Rugby",
-                    "Score": "14-21",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Edinburgh Rugby",
-                    "Score": "20-17",
-                    "Result": "Win",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ospreys",
-                    "Score": "16-6",
+                    "Opposition": "Zebre Rugby Club",
+                    "Score": "54-39",
                     "Result": "Win",
                     "Location": "Home",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Glasgow Warriors",
-                    "Score": "37-21",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Southern Kings",
-                    "Score": "31-3",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Edinburgh Rugby",
-                    "Score": "13-24",
-                    "Result": "Loss",
-                    "Location": "Home",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Scarlets",
-                    "Score": "20-8",
-                    "Result": "Loss",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Ulster Rugby",
-                    "Score": "23-22",
-                    "Result": "Loss",
-                    "Location": "Away",
                     "BP": 1
                 },
                 {
                     "Opposition": "Leinster Rugby",
-                    "Score": "10-36",
+                    "Score": "38-19",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Ospreys",
+                    "Score": "44-25",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Glasgow Warriors",
+                    "Score": "26-29",
                     "Result": "Loss",
                     "Location": "Home",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Zebre Rugby Club",
-                    "Score": "27-14",
-                    "Result": "Win",
-                    "Location": "Home",
                     "BP": 1
                 },
                 {
                     "Opposition": "Zebre Rugby Club",
-                    "Score": "16-20",
-                    "Result": "Win",
-                    "Location": "Away",
-                    "BP": 0
-                },
-                {
-                    "Opposition": "Toyota Cheetahs",
-                    "Score": "27-21",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Scarlets",
-                    "Score": "22-12",
-                    "Result": "Win",
-                    "Location": "Home",
-                    "BP": 1
-                },
-                {
-                    "Opposition": "Dragons",
-                    "Score": "15-18",
+                    "Score": "23-24",
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 0
                 },
                 {
                     "Opposition": "Connacht Rugby",
-                    "Score": "19-22",
+                    "Score": "23-15",
                     "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Edinburgh Rugby",
+                    "Score": "33-13",
+                    "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
-                    "Opposition": "Cardiff Blues",
-                    "Score": "31-25",
+                    "Opposition": "Scarlets",
+                    "Score": "28-21",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Benetton Rugby",
+                    "Score": "27-21",
                     "Result": "Loss",
                     "Location": "Away",
                     "BP": 1
                 },
                 {
                     "Opposition": "Southern Kings",
-                    "Score": "35-36",
+                    "Score": "45-24",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Southern Kings",
+                    "Score": "21-45",
                     "Result": "Win",
                     "Location": "Away",
                     "BP": 1
                 },
                 {
+                    "Opposition": "Cardiff Blues",
+                    "Score": "25-20",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Glasgow Warriors",
+                    "Score": "37-23",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 0
+                },
+                {
+                    "Opposition": "Ospreys",
+                    "Score": "27-26",
+                    "Result": "Loss",
+                    "Location": "Away",
+                    "BP": 2
+                },
+                {
+                    "Opposition": "Connacht Rugby",
+                    "Score": "26-25",
+                    "Result": "Win",
+                    "Location": "Home",
+                    "BP": 0
+                },
+                {
                     "Opposition": "Dragons",
+                    "Score": "17-29",
+                    "Result": "Win",
+                    "Location": "Away",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Cardiff Blues",
                     "Score": "29-27",
                     "Result": "Win",
                     "Location": "Home",
                     "BP": 1
                 },
                 {
-                    "Opposition": "Leinster Rugby",
-                    "Score": "15-17",
+                    "Opposition": "Munster Rugby",
+                    "Score": "17-19",
+                    "Result": "Loss",
+                    "Location": "Home",
+                    "BP": 1
+                },
+                {
+                    "Opposition": "Southern Kings",
+                    "Score": "20-29",
                     "Result": "Win",
                     "Location": "Away",
-                    "BP": 0
+                    "BP": 1
                 }
             ]
         }

@@ -1,0 +1,25 @@
+<h2>What would you like to compare?</h2>
+<div class="form-group">
+    <label for="competition">Competition</label>
+    <select class="form-control" id="competition" [(ngModel)]="competition" name="competition" (change)="setTeams(0)" required>
+        <option value="" disabled selected hidden>Select your option</option>
+        <option [value]="idx" *ngFor="let option of options;let idx = index">{{option.Name}}</option>
+    </select>
+</div>
+<div *ngIf="competition">
+    <div class="form-group">
+        <label for="team1">Team One</label>
+        <select class="form-control" id="team1" [(ngModel)]="team1" name="team1" (change)="setTeams(1)" required>
+            <option value="" disabled selected hidden>Select your option</option>
+            <option *ngFor="let option of team1Options">{{option}}</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="team2">Team Two</label>
+        <select class="form-control" id="team2" [(ngModel)]="team2" name="team2" (change)="setTeams(2)" required>
+            <option value="" disabled selected hidden>Select your option</option>
+            <option *ngFor="let option of team2Options">{{option}}</option>
+        </select>
+    </div>
+</div>
+<button *ngIf="competition&&team1&&team2" class="btn btn-info btn-block" (click)="SendComparison()">Submit</button>

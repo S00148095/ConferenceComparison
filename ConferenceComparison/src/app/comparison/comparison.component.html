@@ -1,0 +1,119 @@
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h2>{{team1}}</h2>
+            <table class="table table-responsive-sm">
+                <thead>
+                    <tr>
+                        <th>Versus</th>
+                        <th>Result</th>
+                        <th>Score</th>
+                        <th>BP</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let Game of team1Games">
+                        <td>{{Game.Opposition}} ({{Game.Location}})</td>
+                        <td>{{Game.Result}}</td>
+                        <td>{{Game.Score}}</td>
+                        <td>{{Game.BP}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-6">
+            <h2>{{team2}}</h2>
+            <table class="table  table-responsive-sm">
+                <thead>
+                    <tr>
+                        <th>Versus</th>
+                        <th>Result</th>
+                        <th>Score</th>
+                        <th>BP</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let Game of team2Games">
+                        <td>{{Game.Opposition}} ({{Game.Location}})</td>
+                        <td>{{Game.Result}}</td>
+                        <td>{{Game.Score}}</td>
+                        <td>{{Game.BP}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <h3>Comparable Fixtures</h3>
+    <p *ngFor="let game of comparableFixtures">{{game}}</p>
+    <h3>Results From Comparable Fixtures</h3>
+    <p>{{team1}}: {{t1W}} Wins, {{t1D}} Draws, {{t1L}} Losses, {{t1BP}} Bonus Points, {{t1P}} Points</p>
+    <p>{{team2}}: {{t2W}} Wins, {{t2D}} Draws, {{t2L}} Losses, {{t2BP}} Bonus Points, {{t2P}} Points</p>
+    <h3>Fixtures Not Directly Comparable</h3>
+    <div class="row">
+        <div class="col-6">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>{{team1}}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let game of incomparableFixturesT1">
+                        <td>{{game}}</td>
+                    </tr>
+                    <tr>
+                        <th>{{t1Pincompat}} Points</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-6">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>{{team2}}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let game of incomparableFixturesT2">
+                        <td>{{game}}</td>
+                    </tr>
+                    <tr>
+                        <th>{{t2Pincompat}} Points</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <h3>Fixtures Not Played</h3>
+    <div class="row">
+        <div class="col-6">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>{{team1}}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let game of fixturesNotPlayedT1">
+                        <td>{{game.Opposition}} ({{game.Location}})</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-6">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>{{team2}}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let game of fixturesNotPlayedT2">
+                        <td>{{game.Opposition}} ({{game.Location}})</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
